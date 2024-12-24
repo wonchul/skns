@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "planar-door-311704",
+  "private_key_id": "04bd101e2489ba712a03c7f21e3067dcacc86021",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeHCb0yidMZy+m\njR1OOYPbZCiIAfPiviXqK2HZDqC87CWucKP9zMOFGdLUNF76iAMkDZebGp1y/evN\nmTseUsWJvre+WHIs2fQU38mUoeEMlwFOVUsr/k27gqQXPgXgnlO2wnr9STOowEY8\ny4OFtY6T0ts+28U+SMy5vfCl67Uo5+bViPV8zFnWzWRw9hLV0PlnQBXSTlogPpc5\ndeMmya+SN/7Xrz37GGUJ8qKtyG9XenGdJvvWpP7Wj2H1wx9kPixIGc96g7jXskE8\n87q2q884NlmE8KLpidaHnz/XmQMMMkRFRu1xbw3p5VkS5JV3TwvR4ryH11Tx6Ww/\npDl9BBFrAgMBAAECggEAHNQaQEj5yGMKG66gOMqg4ahOAZqFiwLLq/pUAX06zqeq\nKTfNlvG2drbiK6IO7VROakz2Jyg/rB9jVt4JGvrRnM+C9jhvPQFSkVnKigjIHYEN\nEmjX54IbT0S/QaOj87Q6pFiqjzNBMZQ5Wk1rQj577DUml7v/p18jwPxCfCZRpk70\nwmcteKu0j0xp7Q2GZMSSWFsIZN6f1ojubdTxDvIjbG5Wx2oCR40xoLiSqaEX8wq0\njXmFXZNLDjJTlAMVeKC2/P1eNVDuqhyWhm46iYd+fnb3UdVJiH/KAhJxeUhopsDh\ni65YauQiyv1mOoZmOdZscodC7xncYT6a8k9rIuPznQKBgQDZCqZ6O18bCIbKmYci\nZpr60M8jZaVNjLecMEPYk1jP9GIUchjFg0MAUhqT8zal7bXZp96nkeCwIlYcgL91\nEadeDA0ubFIQB1r6YqzMaW9+d7PLY3fWETvdEXj/1TUsbck0BRpLfn8kbRHxqJJI\n+QRY9YvuksTiJ1lW+me19BWopwKBgQC6fYPeCCWyV7KEWAHqjCIkqKSgNAQopfpT\nUQU/RPkhM/y7AK1NyozcQJi19MsEl7fP/Md4ZbO5DOimGhbs5vxRfe39QhmfaHE6\neC8mx3o1GFucpkNZ907lQF3lhbquDMiVnE7zcFlgPvuW+iJ3KfG+Az1arjJkKCFX\nSeuZMrilnQKBgFABSwi3pgEzDWzVVyjpJavbGN/1cg+6FVyvtfK5rf1KGnVq8ZKt\nJh+SJFXxS22yyFvpM3wVm/uRTKjJFMo0rbtPOfSo3T8nVvQBN61KGF1IBrCsg9oX\nFDgTXsT/dNBhz88rKlw1zuxAgGLSPspDcMTSDrjsxUKQOrCDMYOy6+D1AoGAL5v5\nfUaBMS14UpcRLirGUKuJE6kT4ri01m5Zs5RNMa/O9oKuu6xZF6WaFuG+rpZ5A60Z\n01/LaROllToV3jb99WP7zOsCFZMZTP7/spu8VC+6u5wql54uUxKCpiTkyqhS0PcN\npNJqzsplel6zS862e3biQ/MyxCUGlf02G286enUCgYAu2RPE/qGa4EQ5RMQG9Ev0\nP8baKKXgi+/R1EuIis8WZ7M3sGi0QaVyXvaKUuM0gD1c0i5KyVD4b+HfGCnIxty1\nyLsOMrMaCpMUmApFKs4aiMh1MxhyLaCs5GmhFu8bm0G0SO2h86/l2AFsnmG22rW2\nTJkylPgoVLQ4vTRdHtdWXA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-acc@planar-door-311704.iam.gserviceaccount.com",
+  "client_id": "114166622613307641026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-acc%40planar-door-311704.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
